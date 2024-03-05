@@ -1,0 +1,22 @@
+# Part 1 Iterative Website Development
+
+Creating, developing, and maintaining website projects that meet users needs are, complex, difficult, and time consuming, and costly over the life of the project.
+
+## What does Iterative mean?
+
+Iterative development is iterating the website development project until the stakeholders agree a goal has been reached, after the teams adds functionality, fix defects, and a new goals have been set. This process continues until the project goals have been meant. Then the tasks
+are to maintaining the website, and possibly add new functionality.
+
+This document was created using most of what is described in the document.
+
+---
+
+## Minimum Viable Product
+
+The first goal of a website development projects is creating a _Minimum Viable Product_.
+
+It is a way of understand whether a project idea work or not. It is a stage in development where the _must_ features are implemented and ready to test with users. It gives feedback about the project positive aspects and shortcomings.
+
+The next steps are adding the _want_ features, until stakeholders agree the website is production quality and ready to be deployment.
+
+# Iterative Projects Development
