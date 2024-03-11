@@ -9,7 +9,7 @@ A content delivery network (CDN) is a geographically distributed network of prox
 [Cloudflare](https://www.cloudflare.com)
 ---
 
-## [Cloudflare](https://www.cloudflare.com)
+### [Cloudflare](https://www.cloudflare.com)
 
 - The [Cloudflare](https://www.cloudflare.com) global network runs every service in every data center so your users have a consistent experience everywhere — whether they are in Chicago or Cape Town. This means all customer traffic is processed at the data center closest to its source, with no backhauling or performance tradeoffs. And with single-pass inspection, security is streamlined and built-in.
 

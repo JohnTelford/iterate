@@ -1,5 +1,5 @@
 # Iterate website development
 
-- Parts deployment to bsky.all
-- Webasie deployment
+- Serial deployment to bsky.app
+- Normal Webasite deployment
   
