@@ -1,6 +1,6 @@
----
-title: Team - Design
----
+{{TOC}}
+
+# Team - Design
 
 The core foundations of a user's website experience are:
 
@@ -12,7 +12,7 @@ The core foundations of a user's website experience are:
 
 - Engaging - Keeps user coming back to a website
 
-#### Design - Prerequisites
+## Design - Prerequisites
 
 - Decisions about Website Design
 
@@ -28,7 +28,7 @@ The core foundations of a user's website experience are:
 
 - User interaction
 	
-#### Design - Website
+## Design - Website
 
 - Responsive Website Design
 

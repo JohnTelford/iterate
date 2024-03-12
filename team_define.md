@@ -1,10 +1,11 @@
----
-title: Team - Define
----
+
+# Team - Define
+
+{{TOC}}
 
 Defining websites helps the Iterative Development teams and Stakeholders understand the project.
 
-#### Define - Prerequisites
+### Define - Prerequisites
 
 Defining website prerequisites is the first steps in optimizing website costs
 

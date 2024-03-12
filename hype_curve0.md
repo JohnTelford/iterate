@@ -1,11 +1,9 @@
 
-
-## Hype Curve
----
+# Hype Curve
+<!--TOC-->
 
 >The Hype Curve helps separate reality from fiction. Keep it in mind when reading this site
 
-1.hype_curve.md
 
 ---
 
