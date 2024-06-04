@@ -1,6 +1,8 @@
+
+June 04, 2024 v0.1
+
 # Chapter 1
 
 ```admonish info
-INFO
-and then some
+This is Chapter 1
 ```
