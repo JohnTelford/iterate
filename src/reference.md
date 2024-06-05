@@ -1,7 +1,10 @@
+---
+
+# Reference
+
 June 03, 2024 - v0.1
 
 # Building and Using — iteration reference
-
 
 ## Building
 
@@ -45,6 +48,8 @@ Create Dev folder
 
 - [Third Party Plugins](https://github.com/rust-lang/mdBook/wiki/Third-party-plugins)
 
+``cd /venv/iteration_reference``
+
 ### Install mdbook
 
 - [mdBook Docs](https://rust-lang.github.io/mdBook/)
@@ -69,27 +74,4 @@ Install mdbook-admonish in mdbook
 
 - ```mdbook-admonish install```
 
-<hr>
-
-# References web Pages
-
-June 04, 2024 v0.1
-
-# Chapter 1
-
-```admonish info
-INFO
-and then some
-```
-
-# Summary
-
-- [Chapter 1](chapter_1.md)
-
-# Book Toml
-
-authors = ["JohnTelford"]
-language = "en"
-multilingual = false
-src = "src"
-title = "Iteration Website Development Reference v0.0.1"
+Install mdbook_mermaid in mdbook
