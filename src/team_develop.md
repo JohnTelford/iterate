@@ -9,9 +9,9 @@
 - Configures and uses website development tools
 
 #### Develop - Prerequisites
+
 - Decisions about resources required to transform the Define and Design work into a website and infrastructure
 
 - Decisions about static site generator and programming tools
-		
 
-	The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
+The slightest configuration, programming or security defect issues during the project will require Remediating and increasing overall lifetime costs 
