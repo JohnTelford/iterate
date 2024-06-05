@@ -17,13 +17,15 @@ Iterative website Define, Design, Develop, Deploy and Maintenance teams may be o
     dev --- mnt
     def --- des
     dep --- mnt
+    dev --- sec
 
     dev([Development])
     def([Define])
     des([Design])
     dep([Deploy])
     mnt([Maintenance])
-```
+    sec([Security])
+ ```
 
 <b>Iterative Development Teams</b>
 
