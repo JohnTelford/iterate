@@ -48,7 +48,7 @@ Create Dev folder
 
 - [Third Party Plugins](https://github.com/rust-lang/mdBook/wiki/Third-party-plugins)
 
-``cd /venv/iteration_reference``
+``cd iteration_reference``
 
 ### Install mdbook
 
@@ -74,4 +74,15 @@ Install mdbook-admonish in mdbook
 
 - ```mdbook-admonish install```
 
+### mdbook _mermaid
+
+- [mdbook-mermaid](https://github.com/badboy/mdbook-mermaid
+)
+
+Install `mdbook-mermaid` app
+
+- ```cargo install mdbook-mermaid```
+
 Install mdbook_mermaid in mdbook
+
+- ```mdbook-mermaid install```
