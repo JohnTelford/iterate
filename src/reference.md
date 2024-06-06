@@ -42,13 +42,11 @@ Create Dev folder
 
 ## Install Third Party Plugins
 
- ```cd iteration_reference```
-
 `mdBook` can be extended with external commands
 
 - [Third Party Plugins](https://github.com/rust-lang/mdBook/wiki/Third-party-plugins)
 
-``cd iteration_reference``
+``cd iteration_reference`` to install
 
 ### Install mdbook
 
