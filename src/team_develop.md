@@ -1,5 +1,7 @@
 ---
 
+<!-- toc -->
+
 # Team - Develop
 
 - Translates the Define and Design teams processes into website pages 

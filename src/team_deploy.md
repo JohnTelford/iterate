@@ -1,5 +1,7 @@
 ---
 
+<!-- toc -->
+
 # Team - Deploy
 
 - Deploying a website is making it available on the Internet. The production version is deployed when Stakeholders agree.
