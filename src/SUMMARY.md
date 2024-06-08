@@ -1,6 +1,7 @@
 # Summary
 
 - [Iterative Development](iterative_development.md)
+- [Minimum Viable Product](minimum_viable_product.md)
 - [Team Overview](team_overview.md)
   - [Team Define](team_define.md)
   - [Team Design](team_design.md)

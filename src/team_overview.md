@@ -6,7 +6,10 @@
 
 ## Overview
 
-Iterative website Define, Design, Develop, Deploy and Maintenance teams may be operational at the same time creating, testing, and helping with maintenance  
+Iterative website Define, Design, Develop, Deploy,   Maintenance , and Security teams may be operational at the same time creating, testing, and helping with maintenance.
+
+<a href="#m-v-p">Minimum Viable Product</a>
+
 
 <div style="text-align: center;">
 <b>Teams</b>
@@ -36,9 +39,7 @@ Iterative website Define, Design, Develop, Deploy and Maintenance teams may be o
 
 </div>
 
-Reaching a [Minimum Viable Product](minimum_viable_product.md) is the first Development teams goal
- 
-- [Team Define](team_define.md)   
+- [Team - Define](team_define.md)   
   Defining websites helps the Iterative Development teams and Stakeholders to understand the project.
 
 - [Team Design](team_design.md)  
