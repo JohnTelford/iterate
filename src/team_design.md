@@ -14,7 +14,7 @@ The core foundations of a user's website experience are:
 
 - Engaging - Keeps user coming back to a website
 
-#### Design - Prerequisites
+## Design - Prerequisites
 
 - Decisions about Website Design
 
@@ -30,7 +30,7 @@ The core foundations of a user's website experience are:
 
 - User interaction
 	
-#### Design - Website
+## Design - Website
 
 - Responsive Website Design
 
@@ -42,7 +42,7 @@ The core foundations of a user's website experience are:
 
 - The website look and feel, users experience, and functionality are consistently maintain
 
-- Consistency website consistency is the look and feel of the site. The users experience, and functionality does not vary between website pages.
+- Website consistency is the look and feel of the site. The users experience, and functionality does not vary between website pages.
 	
 - The website theme is:
 

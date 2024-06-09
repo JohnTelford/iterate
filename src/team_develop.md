@@ -4,13 +4,13 @@
 
 # Team - Develop
 
-- Translates the Define and Design teams processes into website pages 
+- The Develop team translates the Define and Design teams processes into website pages 
 
 - Uses development languages to create website material such as text, graphics, and abstract logical structures. These languages are nonhuman, and strict 
 
 - Configures and uses website development tools
 
-#### Develop - Prerequisites
+## Develop - Prerequisites
 
 - Decisions about resources required to transform the Define and Design work into a website and infrastructure
 

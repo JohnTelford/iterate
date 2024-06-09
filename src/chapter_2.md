@@ -1,5 +1,1 @@
-# Chapter 2
-
-```admonish info
-This is Chapter 2
-```
+# chapter 2
