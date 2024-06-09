@@ -23,3 +23,6 @@ additional-js = ["mermaid.min.js", "mermaid-init.js"]
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
+
+[preprocessor.image-size]
+command = "mdbook-image-size"

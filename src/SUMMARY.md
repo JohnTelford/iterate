@@ -6,6 +6,8 @@
 
   - [TEST - 2](TEST_2.md)
 
+  - [TEST - 3](TEST_3.md)
+
 - [Iterative Development](iterative_development.md)
 
 - [Minimum Viable Product](minimum_viable_product.md)
