@@ -6,7 +6,7 @@
 
   - [TEST - 2](TEST_2.md)
 
-  - [TEST - 3](TEST_3.md)
+- [Development Stack](dev_stack.md)
 
 - [Iterative Development](iterative_development.md)
 
