@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-# Team - Define
+# Team - Define it
 
 Defining websites helps the Iterative Development teams and Stakeholders understand the project.
 
