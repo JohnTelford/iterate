@@ -27,3 +27,12 @@
   - [Team Security](team_security.md)
 
 - [Reference](reference.md)
+
+- [Llama](llama)
+
+  - [Llama Web Projects](duckgo-llama/web_projects.md)
+
+  - [Llama Standard Web Browser Languages](duckgo-llama/standard_web_browser_languages.md)
+
+  - [Technology Reference](duckgo-llama/technology_reference.md)
+
