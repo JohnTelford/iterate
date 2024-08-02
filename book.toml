@@ -3,7 +3,7 @@ authors = ["JohnTelford"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Iterative Website Development"
+title = "Iterative Website Development - v0.0.1"
 
 [preprocessor]
 
