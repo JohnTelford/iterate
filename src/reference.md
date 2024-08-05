@@ -4,7 +4,7 @@
 
 June 03, 2024 - v0.1
 
-# Building and Using — iteration reference
+# Building and Using — `iterative` reference
 
 ## Building
 

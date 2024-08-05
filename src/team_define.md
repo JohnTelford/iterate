@@ -2,6 +2,7 @@
 
 # Team - Define
 
+
 Defining websites helps the Iterative Development teams and Stakeholders understand the project.
 
 #### Define - Prerequisites
