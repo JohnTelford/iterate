@@ -1,0 +1,6 @@
+
+# Overview
+
+This website discusses optimizing website project life time costs using Iterative Web Development.
+
+ The idea of Iterative Development is to develop websites through repeated cycles (iterative) and in smaller portions at a time (incremental), enabling iterative development teams to independently take advantage of what was learned during development of earlier features or versions of the system
